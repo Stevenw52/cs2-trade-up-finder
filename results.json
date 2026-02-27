@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-02-27T22:59:50.126043",
+  "settings": {
+    "budget_usd": 50.0,
+    "steam_tax_percent": 0.15,
+    "monte_carlo_sims": 5000
+  },
+  "result_count": 0,
+  "tradeups": []
+}
